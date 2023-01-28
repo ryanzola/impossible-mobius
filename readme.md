@@ -1,12 +1,14 @@
-# Three.js - Template - Complex
+# Impossible Mobius
 
-🚧 This template is under construction
+So this is continuous happiness
+You know, I always imagined it something more
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
